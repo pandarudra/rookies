@@ -9,3 +9,6 @@ close.addEventListener("click", () => {
   let pg = document.querySelector(".sidebar");
   pg.classList.toggle("show");
 });
+const toSignup = () => {
+  window.location.href = "./Signup/index.html";
+};
