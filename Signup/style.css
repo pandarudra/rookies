@@ -234,6 +234,7 @@ img {
   }
   .sign-up-btn {
     font-size: 0.9rem;
+    width: 40vw;
   }
   .auth-options {
     display: flex;
